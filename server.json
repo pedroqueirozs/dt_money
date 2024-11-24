@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-09-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-09-29T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-09-29T19:36:44.505Z"
+    },
+    {
+      "description": "carro",
+      "price": 4444,
+      "category": "entreterimento",
+      "type": "income",
+      "createdAt": "2024-11-23T07:32:31.504Z",
+      "id": 4
+    },
+    {
+      "description": "teste",
+      "price": 2,
+      "category": "qualquer",
+      "type": "outcome",
+      "createdAt": "2024-11-23T07:39:35.502Z",
+      "id": 5
+    },
+    {
+      "description": "Jantar",
+      "price": 500,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-11-23T07:57:26.649Z",
+      "id": 6
+    }
+  ]
+}

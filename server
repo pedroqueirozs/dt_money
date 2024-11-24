@@ -1,0 +1,20 @@
+
+> dt-money@0.0.0 dev
+> vite
+
+
+✘ vite v5.4.11 is not yet supported in the Community edition of Console Ninja.
+We are working hard on it for you https://tinyurl.com/3h9mtwra.
+
+Estimated release dates:
+  - Community users: around 10th January, 2025 (subject to team availability)
+  - PRO users:       priority access is available now
+
+Re-optimizing dependencies because lockfile has changed
+Port 5173 is in use, trying another one...
+
+  VITE v5.4.11  ready in 482 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
